@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<!-- default-config 默认的配置，  -->
+  <default-config>
+    <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+    <property name="jdbcUrl">jdbc:mysql://localhost:3306/smartphone?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=true&amp;serverTimezone=UTCrue&amp;characterEncoding=utf8&amp;useSSL=true&amp;serverTimezone=UTC</property>
+    <property name="user">root</property>
+    <property name="password">711401</property>
+     <property name="checkoutTimeout">30000</property>
+        <property name="acquireIncrement">5</property>
+        <property name="initialPoolSize">40</property>
+        <property name="minPoolSize">30</property>
+        <property name="maxPoolSize">50</property>
+        <property name="maxStatements">200</property>
+        <property name="maxStatementsPerConnection">20</property>
+  </default-config>
+</c3p0-config>
+	
