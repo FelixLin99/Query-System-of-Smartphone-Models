@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://github.com/FelixLin99/Query-System-of-Smartphone-Models/raw/main/img/architecture.jpg" 
-         width="92%">
+         width="91%">
 </p>
 
 <p align="center">"<i>My first full-stack project!</i>"</p>
