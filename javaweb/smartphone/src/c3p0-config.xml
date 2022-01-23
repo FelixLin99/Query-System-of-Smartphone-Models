@@ -6,7 +6,7 @@
     <property name="jdbcUrl">jdbc:mysql://localhost:3306/smartphone?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=true&amp;serverTimezone=UTCrue&amp;characterEncoding=utf8&amp;useSSL=true&amp;serverTimezone=UTC</property>
     <property name="user">root</property>
     <property name="password">711401</property>
-     <property name="checkoutTimeout">30000</property>
+     <property name="checkoutTimeout">30001</property>
         <property name="acquireIncrement">5</property>
         <property name="initialPoolSize">40</property>
         <property name="minPoolSize">30</property>
